@@ -1,3 +1,5 @@
+<img src="assets/images/website-screenshot.jpeg">
+
 <...HTML CHANGES...>
 
 Descriptive comments added
