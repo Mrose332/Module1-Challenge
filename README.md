@@ -79,4 +79,4 @@ Consolidated and organized properties so that elements that have same properties
  
   The project was uploaded to GitHub at the following repository:  https://github.com/Mrose332/Module1-Challenge.git
 
-  You can access the deployed application with the GitHup Pages link: https://mrose332.github.io/Module1-Challenge/
+  You can access the deployed application with the GitHub Pages link: https://mrose332.github.io/Module1-Challenge/
