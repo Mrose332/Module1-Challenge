@@ -9,6 +9,7 @@ To refractor an existing webpage and follows accesibilty standards so the site o
 
 <img src="assets/images/website-screenshot.jpeg">
 
+```
 <...HTML CHANGES...>
 
 Descriptive comments added
@@ -73,7 +74,7 @@ Descriptive comments added
 Changed <div>  for <nav> tag in .header nav 
 
 Consolidated and organized properties so that elements that have same properties are grouped together
-  
+  ```
 # Installation
  
   The project was uploaded to GitHub at the following repository:  https://github.com/Mrose332/Module1-Challenge.git
