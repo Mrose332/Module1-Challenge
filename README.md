@@ -2,7 +2,7 @@
 
 ## Description
 
-To refractor an existing webpage and follows accesibilty standards so the site optimized is search engines
+To refractor an existing webpage and follows accesibilty standards so the site has optimized search engines
 
 ## Usage
 
